@@ -2,7 +2,10 @@
   #style.css
 \*-----------------------------------*/
 
-
+/* In styles.css */
+.testimonials, .clients {
+  display: none;
+}
 /**
  * copyright 2022 @codewithsadee
  */
